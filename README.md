@@ -4,8 +4,10 @@
 
 ![alt text](https://github.com/francescogra/DeepLearningExam/blob/main/slide1.png)
 
-The aim of this project is to test and analyse two advanced neural network models for human action recognition through video analysis using the MECCANO dataset. This dataset, rich in detailed annotations of the actions performed in different scenes, provides a robust starting point for the training of artificial intelligence models specialised in the recognition of human activities. 
-After testing the models, the results were analysed and compared to assess the performance and effectiveness of each model. Human action recognition is one of the most fascinating and complex challenges in computer vision and machine learning. 
+The objective of this project is to test and analyse two advanced neural network models for the recognition of human actions through video analysis, using the MECCANO dataset. Wearable cameras allow images and videos to be captured from the user's perspective, offering a new dimension for understanding human behaviour in egocentric contexts, particularly in industrial environments.
+Action recognition consists of determining the action performed by the camera wearer from an egocentric video segment. The objective is to assign the correct action class to the video segment, using RGB frames as input. This project compares the performance of two neural network models: the SlowFast model (SLOWFAST_8x8_R50_MECCANO) and the newer MViT model (MVITv2_S_16x4). The models were not developed from scratch, but were used to test and analyse the results, comparing their performance to assess the effectiveness of each approach in the context of action recognition.
+
+Translated with DeepL.com (free version)
 
 ![alt text](https://github.com/francescogra/DeepLearningExam/blob/main/slide2.png)
 
