@@ -2,8 +2,12 @@
 
 # The meccano dataset: Action recognition from egocentric videos in an industrial-like domain
 
+![alt text](https://github.com/francescogra/DeepLearningExam/blob/main/slide1.png)
+
 The aim of this project is to test and analyse two advanced neural network models for human action recognition through video analysis using the MECCANO dataset. This dataset, rich in detailed annotations of the actions performed in different scenes, provides a robust starting point for the training of artificial intelligence models specialised in the recognition of human activities. 
 After testing the models, the results were analysed and compared to assess the performance and effectiveness of each model. Human action recognition is one of the most fascinating and complex challenges in computer vision and machine learning. 
+
+![alt text](https://github.com/francescogra/DeepLearningExam/blob/main/slide2.png)
 
 The applications of this technology are diverse, ranging from security and surveillance to entertainment, human-machine interaction and robotics. In this context, the MECCANO dataset is the first egocentric video dataset to study human-object interaction in an industrial context. MECCANO was collected from 20 participants who were asked to build a motion model by interacting with small objects and tools. Two state-of-the-art neural network models were used to achieve the objectives:
 
